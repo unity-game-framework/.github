@@ -1,6 +1,6 @@
 ## About
 
-Provides tools for creating games powered by [Unity Game Engine](https://unity.com/).
+Collection of packages for [Unity](https://unity.com/) software development.
 
 ## Topics
 
